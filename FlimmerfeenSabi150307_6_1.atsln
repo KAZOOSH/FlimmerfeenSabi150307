@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FlimmerfeenSabi150307", "FlimmerfeenSabi150307\FlimmerfeenSabi150307_6_1.cproj", "{B325410E-6C0C-40EB-A4A8-8D960A473B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B325410E-6C0C-40EB-A4A8-8D960A473B66}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B325410E-6C0C-40EB-A4A8-8D960A473B66}.Debug|AVR.Build.0 = Debug|AVR
+		{B325410E-6C0C-40EB-A4A8-8D960A473B66}.Release|AVR.ActiveCfg = Release|AVR
+		{B325410E-6C0C-40EB-A4A8-8D960A473B66}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
